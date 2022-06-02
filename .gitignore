@@ -1,0 +1,3 @@
+**/target
+.smithy.lsp.log
+.direnv/
